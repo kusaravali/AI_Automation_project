@@ -1,0 +1,5 @@
+fastapi
+uvicorn
+httpx
+torch
+transformers>=4.41,<5
